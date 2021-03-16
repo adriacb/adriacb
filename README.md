@@ -1,7 +1,9 @@
 <a href="https://www.linkedin.com/in/adriacabello/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb)
+
+<img align="left" alt="Visitors" width="50px" src="https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb" />
+
 
 Hi, I’m a Bioinformatics student at ESCI-UPF, and I'm currently doing the internship and carrying out my final degree project at Barril Lab.
 
