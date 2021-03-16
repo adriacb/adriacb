@@ -17,7 +17,8 @@ Hi, I’m a Bioinformatics student at ESCI-UPF, and I'm currently doing the inte
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&theme=gotham" alt="adriacb" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact)](https://github.com/adriacb/github-readme-stats)
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&show_icons=true&theme=gotham&layout=compact" alt="adriacb" />
 
 <!---
 adriacb/adriacb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
