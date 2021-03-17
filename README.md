@@ -3,6 +3,8 @@
 </a>
 
 <img align="left" alt="Visitors" width="50px" src="https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb" />
+</a>
+
 
 
 Hi, I’m a Bioinformatics student at ESCI-UPF, and I'm currently doing the internship and carrying out my final degree project at Barril Lab.
