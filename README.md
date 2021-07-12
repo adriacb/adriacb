@@ -1,17 +1,18 @@
-<img align="left" alt="Visitors" width="50px" src="https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb" />
-</a>
-
-
-
-Hi, I’m a Bioinformatics student at ESCI-UPF, and I'm currently doing the internship and carrying out my final degree project at Barril Lab.
-
-
 <h1 align="center">Hi 👋, I'm Adrià Cabello</h1>
 <h3 align="center">A passionate Bioinformatician from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriacb&label=Profile%20views&color=0e75b6&style=flat" alt="adriacb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriacb" alt="adriacb" /></a> </p>
+
+<img align="left" alt="Visitors" width="50px" src="https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb" />
+</a>
+
+
+
+Hi, I’m a Bioinformatics student at ESCI-UPF
+
+- I'm currently doing the internship and carrying out my final degree project at Barril Lab.
 
 - 🌱 I’m currently learning **Data Science**
 
