@@ -10,9 +10,9 @@
 
 
 
-Hi, I’m a Bioinformatics student at ESCI-UPF
+Hi,
 
-- I'm currently doing the internship and carrying out my final degree project at Barril Lab.
+- I'm currently working as a Chemoinformatics (research scientist) at Chemotargets.
 
 - 🌱 I’m currently learning **Data Science**
 
