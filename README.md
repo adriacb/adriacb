@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriacb" alt="adriacb" /></a> </p>
 
-<img align="left" alt="Visitors" width="50px" src="https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb" />
-</a>
-
+<img align="left" alt="Visitors" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=adriacb.adriacb" /></a>
 
 
 Hi,
