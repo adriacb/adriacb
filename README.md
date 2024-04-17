@@ -36,7 +36,7 @@
 
 ## Contact Me
 
-Feel free to reach out for collaborations or discussions. You can contact me via [email](mailto:youremail@example.com) or through [LinkedIn](https://www.linkedin.com/in/your-username/).
+Feel free to reach out for collaborations or discussions. You can contact me via [email](mailto:adrian.cabello@alumni.esci.upf.com) or through [LinkedIn](https://www.linkedin.com/in/adriacabello/).
 
 Let's connect and learn together! 🚀
 
