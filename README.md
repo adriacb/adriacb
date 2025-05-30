@@ -6,8 +6,7 @@
 
 I’m a **Machine Learning Engineer** with a background in **drug discovery**, **NLP**, and **AI agent orchestration**.
 
-- 🧠 I explore LLMs, LangGraph, and RAG systems.
-- ⚗️ I’ve worked with molecular modeling, FastAPI apps, and production ML systems.
+- ⚗️ I’ve worked with drug discovery projects, FastAPI apps, and production ML systems.
 - 🛠️ I love building tools that connect science, data, and people.
 - 🌱 Always learning—currently diving deeper into scalable LLM infra.
 
