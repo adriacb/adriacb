@@ -1,47 +1,47 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Hi, I'm Adrià!
 
-![visitor count](https://visitor-badge.laobi.icu/badge?page_id=adriacb.visitor-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adriacb.visitor-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/adriacb?label=Followers&style=social)](https://github.com/adriacb)
 [![GitHub Stars](https://img.shields.io/github/stars/adriacb?label=Stars&style=social)](https://github.com/adriacb)
 
-## About Me
+I’m a **Machine Learning Engineer** with a background in **drug discovery**, **NLP**, and **AI agent orchestration**.
 
-- 👨‍🔬 I am a research scientist at [Chemotargets](https://www.chemotargets.com/) with a background in data science.
-- 📊 Currently mastering in large language models and their applications.
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/adriacabello/) for professional updates.
+- 🧠 I explore LLMs, LangGraph, and RAG systems.
+- ⚗️ I’ve worked with molecular modeling, FastAPI apps, and production ML systems.
+- 🛠️ I love building tools that connect science, data, and people.
+- 🌱 Always learning—currently diving deeper into scalable LLM infra.
 
-## Tech Stack
+---
 
-### Programming Languages
+## 🛠 Tech I Enjoy
 
-- Python 🐍
-- R 📊
-- C 📜
-- C++ 🖥️
-- Scala 🧡
+`Python` · `PyTorch` · `Transformers` · `LangGraph` · `FastAPI` · `Neo4j`  
+`Docker` · `AWS` · `RDKit` · `MLflow` · `LangChain` · `Pinecone` · `Gradio`
 
-### Frameworks
-- rDkit :test_tube:
-- Sentence Transformers 🔥
-- Hugging Face Transformers 🤗
-- LangChain 🌐
-- Pandas 🐼
-- PyTorch 🚀
-- ... and more
+---
 
-## Projects
+## 🧪 Projects
 
-- [LLMs Exploration](https://github.com/adriacb/LLMs-Exploration): This repository is designed to help you understand and work with Large Language Models, particularly using Python and related libraries.
+- 🔬 [LLMs Exploration](https://github.com/adriacb/LLMs-Exploration)  
+  Playing with agents, prompt engineering, and open-source models.
 
+- ⚙️ *More projects on RAG, multi-agent systems, and bioinformatics coming soon...*
 
-## Contact Me
+---
 
-Feel free to reach out for collaborations or discussions. You can contact me via [email](mailto:adrian.cabello@alumni.esci.upf.com) or through [LinkedIn](https://www.linkedin.com/in/adriacabello/).
+## 📫 Reach Out
 
-Let's connect and learn together! 🚀
+Want to collaborate, geek out, or just say hi?
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriacb&show_icons=true&locale=en&layout=compact" alt="adriacb" /></p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/adriacabello/)
+- ✉️ [Email](mailto:cabl.adria@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&locale=en" alt="adriacb" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriacb&" alt="adriacb" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriacb" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact" alt="Top Languages" />
+</p>
