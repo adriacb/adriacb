@@ -1,49 +1,86 @@
-# 👋 Hi, I’m **Adrià**
-
-**AI Engineer & Data Scientist** at **CaixaBank Tech**, with a strong background in drug discovery, NLP, and agent orchestration. I build production-grade AI systems that bridge research and real-world impact.
+<!-- Centered Banner / Title -->
+<div align="center">
+  <h1>👋 Hi, I’m **Adrià Cabello Blanque**</h1>
+  <p>AI Engineer & Data Scientist @ CaixaBank Tech</p>
+</div>
 
 ---
 
-## 🔬 My Core Expertise
+## 🔍 What I Do
 
-- **Drug Discovery**: Computational pipelines, fragment-based screening, cheminformatics  
-- **Retrieval-Augmented Generation (RAG)**: I’m currently working on **Ragprod**, a RAG-based system to enable … *(describe what Ragprod does — retrieval, agents, production, etc.)*  
-- **AI Orchestration**: Multi-agent workflows, LangGraph, automated reasoning  
-- **ML in Production**: FastAPI, Docker, scalable pipelines, embedding databases
+- Build **production-ready AI systems**: ML pipelines, agents, orchestrations  
+- Lead **RAG (Retrieval-Augmented Generation)** efforts — working on **Ragprod**: a scalable RAG-based architecture for real-world applications  
+- Apply **scientific rigor** from my drug-discovery background: virtual screening, graph-based molecular modeling  
+- Build APIs & microservices with **FastAPI**, and production infrastructure with **Docker** & **AWS**  
+- Explore **multi-agent workflows** powered by LangGraph / LangChain for reasoning and decision systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-`Python` · `PyTorch` · `Transformers` · `LangChain` · `LangGraph` · `RDKit`  
-`FastAPI` · `Gradio` · `Neo4j` · `MLflow` · `Pinecone` · `Docker` · `AWS`
+<div>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-lightning-red?logo=pytorch" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-models-orange?logo=transformers" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-graph-agents-darkgreen" />
+  <img alt="RDKit" src="https://img.shields.io/badge/RDKit-cheminformatics-00A0E3" />
+  <br />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-APIs-lightblue?logo=fastapi" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-&-Containers-blue?logo=docker" />
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-graphdb-cyan?logo=neo4j" />
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-MLOps-black?logo=mlflow" />
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-vector-db-purple" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-cloud-orange?logo=amazonaws" />
+</div>
 
 ---
 
-## 📂 Select Projects
+## 📁 Highlighted Projects
 
-- **BigChem_LMW** — A fragment-based virtual screening pipeline for large chemical libraries.  
-- **Ragprod** *(working title)* — A scalable, retrieval-augmented generation system under active development.  
-- **PyMOL Assistant** — An AI agent (built with LangGraph) to interact with PyMOL through natural language for structural biology tasks.
-
----
-
-## 🎯 My Mission
-
-To **connect science, data, and business** by developing AI systems that are both research-grade and production-ready. At CaixaBank Tech, I design tools that drive real-world impact, enabling smarter decisions and better workflows.
+| Project | Description |
+|---|---|
+| **BigChem_LMW** | A fragment-based virtual screening pipeline for large chemical libraries — docking, clustering, MM-GBSA. |
+| **Ragprod** | My production RAG system — combining retrieval, generation, and agent orchestration for scalable LLM-powered workflows. |
+| **PyMOL Assistant** | Natural-language agent for PyMOL (structural biology) built with LangGraph: query, visualize, and analyze.
 
 ---
 
-## 📫 Let’s Connect
+## 🎯 What Drives Me
+
+> **Mission**: To *bridge research and production*. I leverage my drug-discovery experience and AI engineering skills to build systems that are scientifically grounded, scalable, and business-relevant.
+
+At CaixaBank Tech, I aim to deliver impactful AI solutions that are robust, scalable, and ethically sound — empowering decision-making and innovation through intelligent systems.
+
+---
+
+## 📬 Let’s Connect
 
 - **LinkedIn**: [in/adriacabello](https://www.linkedin.com/in/adriacabello/)  
 - **Email**: cabl.adria@gmail.com  
-- **Open to**: collaboration on open-source RAG / agent projects, biotech, or AI tooling  
+- **Open to**: Collaboration on RAG, multi-agent systems, biotech / AI tooling projects  
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Extras & Links
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&hide_title=true)](https://github.com/adriacb)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adriacb)](https://github.com/adriacb)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact)](https://github.com/adriacb)
+- I actively maintain **Ragprod**, and welcome input or collaboration  
+- I write about AI, ML, and drug discovery — feel free to check out my blog / Medium  
+
+---
+
+## ⚙️ GitHub Metrics & Activity
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 📌 Fun / Personal
+
+- 🎧 When I’m not coding: I love reading about structural biology, playing chess, and exploring sci-fi.  
+- 🧪 Always learning — currently diving into **scalable LangGraph architectures**, **vector store embeddings**, and **bio-AI integrations**.  
