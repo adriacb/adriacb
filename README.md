@@ -1,6 +1,6 @@
 <!-- Centered Banner / Title -->
 <div align="center">
-  <h1>👋 Hi, I’m **Adrià Cabello Blanque**</h1>
+  <h1>👋 Hey, I’m **Adrià Cabello Blanque**</h1>
   <p>AI Engineer & Data Scientist @ CaixaBank Tech</p>
 </div>
 
@@ -8,11 +8,11 @@
 
 ## 🔍 What I Do
 
-- Build **production-ready AI systems**: ML pipelines, agents, orchestrations  
-- Lead **RAG (Retrieval-Augmented Generation)** efforts — working on **Ragprod**: a scalable RAG-based architecture for real-world applications  
-- Apply **scientific rigor** from my drug-discovery background: virtual screening, graph-based molecular modeling  
-- Build APIs & microservices with **FastAPI**, and production infrastructure with **Docker** & **AWS**  
-- Explore **multi-agent workflows** powered by LangGraph / LangChain for reasoning and decision systems  
+- Build **production‑grade AI systems**: scalable ML pipelines, agent orchestration, and RAG architectures  
+- Lead the design and development of **Ragprod** — a retrieval-augmented generation system built for real-world applications  
+- Bring **scientific rigor** from my drug-discovery background: fragment screening, graph-based molecular modeling, virtual screening  
+- Expose models and agents via **FastAPI**, Dockerize for portability, and scale with **AWS**  
+- Explore **multi-agent workflows** using LangGraph / LangChain to enable reasoning, decision-making & automation  
 
 ---
 
@@ -20,16 +20,15 @@
 
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-lightning-red?logo=pytorch" />
-  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-models-orange?logo=transformers" />
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-graph-agents-darkgreen" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-graph‑agents-green" />
   <img alt="RDKit" src="https://img.shields.io/badge/RDKit-cheminformatics-00A0E3" />
   <br />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-APIs-lightblue?logo=fastapi" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-&-Containers-blue?logo=docker" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker‑Containers-blue?logo=docker" />
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-graphdb-cyan?logo=neo4j" />
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-MLOps-black?logo=mlflow" />
-  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-vector-db-purple" />
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-vector‑db-purple" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-cloud-orange?logo=amazonaws" />
 </div>
 
@@ -37,19 +36,20 @@
 
 ## 📁 Highlighted Projects
 
-| Project | Description |
+| Project | What It’s About |
 |---|---|
-| **BigChem_LMW** | A fragment-based virtual screening pipeline for large chemical libraries — docking, clustering, MM-GBSA. |
-| **Ragprod** | My production RAG system — combining retrieval, generation, and agent orchestration for scalable LLM-powered workflows. |
-| **PyMOL Assistant** | Natural-language agent for PyMOL (structural biology) built with LangGraph: query, visualize, and analyze.
+| **BigChem_LMW** | A fragment‑based virtual screening pipeline: docking, clustering, MM‑GBSA — applying computational chemistry to discover novel compounds. |
+| **Ragprod** | My RAG system in production: blends retrieval + generation + agent orchestration for powerful, context-aware workflows. |
+| **PyMOL Assistant** | Natural‑language agent for PyMOL (structural biology tool), powered by LangGraph — ask, analyze, visualize. |
 
 ---
 
-## 🎯 What Drives Me
+## 🎯 My Mission
 
-> **Mission**: To *bridge research and production*. I leverage my drug-discovery experience and AI engineering skills to build systems that are scientifically grounded, scalable, and business-relevant.
+> To **bridge research and production**.  
+> I combine my deep domain expertise in drug discovery with AI engineering to build systems that are scientifically rigorous, robust, and scale to real‑world business problems.
 
-At CaixaBank Tech, I aim to deliver impactful AI solutions that are robust, scalable, and ethically sound — empowering decision-making and innovation through intelligent systems.
+At **CaixaBank Tech**, I’m focused on delivering AI that drives impact, backed by strong engineering and careful design.
 
 ---
 
@@ -57,30 +57,22 @@ At CaixaBank Tech, I aim to deliver impactful AI solutions that are robust, scal
 
 - **LinkedIn**: [in/adriacabello](https://www.linkedin.com/in/adriacabello/)  
 - **Email**: cabl.adria@gmail.com  
-- **Open to**: Collaboration on RAG, multi-agent systems, biotech / AI tooling projects  
+- Always open to **collaborating on RAG systems, multi-agent architectures, or bio-AI tooling**.
 
 ---
 
-## 💡 Extras & Links
-
-- I actively maintain **Ragprod**, and welcome input or collaboration  
-- I write about AI, ML, and drug discovery — feel free to check out my blog / Medium  
-
----
-
-## ⚙️ GitHub Metrics & Activity
+## 📈 GitHub Metrics & Activity
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&theme=dracula" alt="GitHub Stats" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## 📌 Fun / Personal
+## ⚡ Fun / Personal
 
-- 🎧 When I’m not coding: I love reading about structural biology, playing chess, and exploring sci-fi.  
-- 🧪 Always learning — currently diving into **scalable LangGraph architectures**, **vector store embeddings**, and **bio-AI integrations**.  
+- 🎧 When I’m not writing code: I read about structural biology, play chess, and binge sci-fi.  
+- 🧪 Always in learning mode: currently diving into **agent orchestration**, **vector‑store embeddings**, and **bio‑AI integrations**.  
+- 💬 Fun fact: I sometimes talk to my code. It rarely answers back — but when it does, it's usually an error message.
+
