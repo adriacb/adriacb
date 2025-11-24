@@ -1,46 +1,49 @@
-# 👋 Hi, I'm Adrià!
+# 👋 Hi, I’m **Adrià**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adriacb.visitor-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/adriacb?label=Followers&style=social)](https://github.com/adriacb)
-[![GitHub Stars](https://img.shields.io/github/stars/adriacb?label=Stars&style=social)](https://github.com/adriacb)
-
-I’m a **Machine Learning Engineer** with a background in **drug discovery**, **NLP**, and **AI agent orchestration**.
-
-- ⚗️ I’ve worked with drug discovery projects, FastAPI apps, and production ML systems.
-- 🛠️ I love building tools that connect science, data, and people.
-- 🌱 Always learning—currently diving deeper into scalable LLM infra.
+**AI Engineer & Data Scientist** at **CaixaBank Tech**, with a strong background in drug discovery, NLP, and agent orchestration. I build production-grade AI systems that bridge research and real-world impact.
 
 ---
 
-## 🛠 Tech I Enjoy
+## 🔬 My Core Expertise
 
-`Python` · `PyTorch` · `Transformers` · `LangGraph` · `FastAPI` · `Neo4j`  
-`Docker` · `AWS` · `RDKit` · `MLflow` · `LangChain` · `Pinecone` · `Gradio`
-
----
-
-## 🧪 Projects
-
-- 🔬 [LLMs Exploration](https://github.com/adriacb/LLMs-Exploration)  
-  Playing with agents, prompt engineering, and open-source models.
-
-- ⚙️ *More projects on RAG, multi-agent systems, and bioinformatics coming soon...*
+- **Drug Discovery**: Computational pipelines, fragment-based screening, cheminformatics  
+- **Retrieval-Augmented Generation (RAG)**: I’m currently working on **Ragprod**, a RAG-based system to enable … *(describe what Ragprod does — retrieval, agents, production, etc.)*  
+- **AI Orchestration**: Multi-agent workflows, LangGraph, automated reasoning  
+- **ML in Production**: FastAPI, Docker, scalable pipelines, embedding databases
 
 ---
 
-## 📫 Reach Out
+## 🛠️ Tech Stack
 
-Want to collaborate, geek out, or just say hi?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/adriacabello/)
-- ✉️ [Email](mailto:cabl.adria@gmail.com)
+`Python` · `PyTorch` · `Transformers` · `LangChain` · `LangGraph` · `RDKit`  
+`FastAPI` · `Gradio` · `Neo4j` · `MLflow` · `Pinecone` · `Docker` · `AWS`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriacb" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact" alt="Top Languages" />
-</p>
+## 📂 Select Projects
+
+- **BigChem_LMW** — A fragment-based virtual screening pipeline for large chemical libraries.  
+- **Ragprod** *(working title)* — A scalable, retrieval-augmented generation system under active development.  
+- **PyMOL Assistant** — An AI agent (built with LangGraph) to interact with PyMOL through natural language for structural biology tasks.
+
+---
+
+## 🎯 My Mission
+
+To **connect science, data, and business** by developing AI systems that are both research-grade and production-ready. At CaixaBank Tech, I design tools that drive real-world impact, enabling smarter decisions and better workflows.
+
+---
+
+## 📫 Let’s Connect
+
+- **LinkedIn**: [in/adriacabello](https://www.linkedin.com/in/adriacabello/)  
+- **Email**: cabl.adria@gmail.com  
+- **Open to**: collaboration on open-source RAG / agent projects, biotech, or AI tooling  
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriacb&show_icons=true&hide_title=true)](https://github.com/adriacb)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adriacb)](https://github.com/adriacb)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriacb&layout=compact)](https://github.com/adriacb)
